@@ -36,3 +36,14 @@ person's number of loaves even. Each
 operation gives one loaf to two adjacent
 people.
 
+### Fair Rations
+- Platform: HackerRank
+- Topic: Greedy Algorithms
+- Languages: Python, C++
+- Time Complexity: O(n)
+- Space Complexity: O(1)
+
+Solutions:
+- [Python](Greedy/Fair-Rations.py)
+- [C++](Greedy/Fair-Rations.cpp)
+
