@@ -25,3 +25,14 @@ extra space.
 Problem:
 https://leetcode.com/problems/house-robber/
 
+### 2. Fair Rations
+- Platform: HackerRank
+- Topic: Greedy Algorithms
+- Time Complexity: O(n)
+- Space Complexity: O(1)
+
+Distribute loaves of bread to make every
+person's number of loaves even. Each
+operation gives one loaf to two adjacent
+people.
+
