@@ -47,3 +47,17 @@ Solutions:
 - [Python](Greedy/Fair-Rations.py)
 - [C++](Greedy/Fair-Rations.cpp)
 
+### 3. N-th Tribonacci Number
+- Platform: LeetCode
+- Topic: Dynamic Programming
+- Languages: Python (and C++, if you've solved it in both)
+- Time Complexity: O(n)
+- Space Complexity: O(1)
+
+**Approach:** Start with the base cases T(0) = 0,
+T(1) = 1, and T(2) = 1. Calculate each
+subsequent number by adding the previous three
+values, using three variables to save space.
+
+**Problem:** https://leetcode.com/problems/n-th-tribonacci-number/
+
